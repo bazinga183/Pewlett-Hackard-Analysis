@@ -150,5 +150,5 @@ The analysis yielded these conclusions:
 In short, to make up for the upcoming "silver tsunami" that PH is going to experience, they need to fill 90,398 roles if the projections are correct.
 As it currently stands, there are not enough mentors to help fill this gap because each mentor would need to mentor at least 58 students.
 Potential questions that PH will need to consider in the future is:
-  - Are there any ways they can incentivize these current projected retirees to stay at the company by increasing pay, benefits, or potential pensions so that the lack of labor does not impact the companies workflow in the future?
-  - And how can they expand the total number of mentors within PH so that the current projected mentors are not ovewhelmed?
+  - Are there any ways they can incentivize these current projected retirees to stay at the company by increasing pay, benefits, or potential pensions so that the lack of labor does not impact the companies workflow in the future? I think if this is correctly achieved, the years for retirement can be limited from between 1952-1955 to 1952-1954. This would potentially cut down drastically on the amount of projected retirees and push the burden off of the mentors.
+  - And how can they expand the total number of mentors within PH so that the current projected mentors are not ovewhelmed? Well the year range can be expanded to include years that go beyond 1965 so that there are more options to not only increase the total mentors, but also to refine the search for mentors that would properly fit the role.
