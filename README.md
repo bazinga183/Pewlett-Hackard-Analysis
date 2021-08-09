@@ -150,5 +150,11 @@ The analysis yielded these conclusions:
 In short, to make up for the upcoming "silver tsunami" that PH is going to experience, they need to fill 90,398 roles if the projections are correct.
 As it currently stands, there are not enough mentors to help fill this gap because each mentor would need to mentor at least 58 students.
 Potential questions that PH will need to consider in the future is:
-  - Are there any ways they can incentivize these current projected retirees to stay at the company by increasing pay, benefits, or potential pensions so that the lack of labor does not impact the companies workflow in the future? I think if this is correctly achieved, the years for retirement can be limited from between 1952-1955 to 1952-1954. This would potentially cut down drastically on the amount of projected retirees and push the burden off of the mentors.
-  - And how can they expand the total number of mentors within PH so that the current projected mentors are not ovewhelmed? Well the year range can be expanded to include years that go beyond 1965 so that there are more options to not only increase the total mentors, but also to refine the search for mentors that would properly fit the role.
+  - Are there any ways they can incentivize these current projected retirees to stay at the company by increasing pay, benefits, or potential pensions so that the lack of labor does not impact the companies workflow in the future? I think if this is correctly achieved, the years for retirement can be limited from between 1952-1955 to 1952-1954. This would potentially cut down drastically on the amount of projected retirees and push the burden off of the mentors. In the following example, if the year is cut back, total number of projected retirees drops to 67,293, a decrease of 23,105.
+
+![new_retirement_count](https://user-images.githubusercontent.com/46951897/128749985-1d4d8653-74ce-416b-9f25-93270ec0da21.PNG)
+
+  - And how can they expand the total number of mentors within PH so that the current projected mentors are not ovewhelmed? Well the year range can be expanded to include years that go beyond 1965 so that there are more options to not only increase the total mentors, but also to refine the search for mentors that would properly fit the role. This would be as simple as modifying the query to go back one year for between 1964-1965 and would yield 19,905 potential new mentors:
+
+![new_mentor_count](https://user-images.githubusercontent.com/46951897/128751537-e7fbfd7f-a158-499c-958b-9fca372ac366.PNG)
+
