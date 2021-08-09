@@ -145,7 +145,7 @@ The analysis yielded these conclusions:
   - In total, 90,398 employees are projected to retire from PH. 
   - There are 1,549 potential mentors among the currently employed workers at PH.
   - PH needs to consider expanding the total number of mentors because the current figures show that each mentor would need to take on at least 58 new hires in order to make up the potential gap.
-  - 
+
 ## Summary
 In short, to make up for the upcoming "silver tsunami" that PH is going to experience, they need to fill 90,398 roles if the projections are correct.
 As it currently stands, there are not enough mentors to help fill this gap because each mentor would need to mentor at least 58 students.
